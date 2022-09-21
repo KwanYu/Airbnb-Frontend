@@ -14,7 +14,7 @@
     "vue": "^2.6.11",
     "vue-airbnb-style-datepicker": "^2.7.1",
     "vue-axios": "^2.1.5",
-    "vuetify": "^2.2.11"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@mdi/font": "^5.3.45",
